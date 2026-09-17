@@ -1,0 +1,9 @@
+# Internal review tooling
+.impeccable/
+
+# Unused media (not referenced by the site)
+*.mp4
+
+# OS
+Thumbs.db
+.DS_Store
